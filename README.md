@@ -1,8 +1,8 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=F722C4&center=true&vCenter=true&multiline=true&height=70&lines=Hi+I'm+Nurettin+KAYNAR;Welcome+to+My+Github+Page+%F0%9F%98%8A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=F722C4&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Hi+I'm+Nurettin+KAYNAR;Welcome+to+My+Github+Page+%F0%9F%98%8A)
 <br />
 
-I'm a self-taught passionate React.js & React-Native developer from Turkey
+I'm a self-taught passionate React.js & React-Native developer from Turkey 🇹🇷
 
 **About me**
 
