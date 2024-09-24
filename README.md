@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi There, Welcome My Github Page!</h1>
 
 ###
 
-<p align="left">My name is Nurettin and I'm a Frontend Developer, from Turkey</p>
+<p align="left">My name is Nurettin and I'm a Senior Frontend Developer, from Turkey</p>
 
 ###
 
